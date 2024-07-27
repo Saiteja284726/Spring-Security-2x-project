@@ -20,6 +20,7 @@ public class Project {
     private String projectdescription;
     private String projectLink;
     private String psnumber;
+    private String username;
     @Enumerated(EnumType.STRING)
     private ProjectStatus projectStatus;
 
